@@ -1,0 +1,1 @@
+const PRIMARY_BACKGROUND_DAY = '#fff'
